@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://pt-br.reactjs.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="" height="60">
+    <img src="https://miro.medium.com/max/796/1*h_Kc9crv8XjnfwXMXVMlug.png" alt="" height="60">
   </a>
 </p>
 <h1 align="center">
